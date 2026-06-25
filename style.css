@@ -205,10 +205,10 @@
         }
 
     @media (max-width: 1024px) {
-            header { padding: 1.5rem 2rem; }
+            header { padding: 1rem 1rem; }
             .container { grid-template-columns: 1fr; padding: 4rem 2rem; text-align: center; }
             .projects-section { padding: 4rem 2rem; }
             .projects-grid { grid-template-columns: 1fr; gap: 1.5rem; }
-            nav {  gap: 1.1rem;}
+            nav { gap: 0.8rem;}
+            .project-card { padding: 1rem;}
         }
-        
